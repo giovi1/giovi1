@@ -1,16 +1,30 @@
-### Hi, I'm Giovanni 🖐️
+### Hi, I'm Giovanni Panella 🖐️
 
-## I'm a PhD student of the National PhD program in AI
+## 👨‍🎓 PhD Student in AI  
+I'm a **PhD student in the National PhD Program in AI** at the **University of Naples**. My research focuses on **AI applied to agritech**, with expertise in:  
+- **Large Language Models (LLMs)**
+- **Computer Vision & Machine Learning**
 
-### Connect with me:
+I’m passionate about bridging **AI research** with real-world **applications**.  
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Giovanni Panella | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Giovanni Panella | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
+---
 
-<br />
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]   
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)][scholar]  
 
-[instagram]: https://www.instagram.com/giovi_1/
-[linkedin]: https://www.linkedin.com/in/giovannipanella
-<!--[twitter]: https://twitter.com/panella_gio-->
+---
+
+### 📊 GitHub Stats  
+![Giovanni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannipanella&show_icons=true&theme=dark)  
+
+---
+
+### 📚 Publications  
+- 🏆 **Best Student Paper Award** at [IEEE EAIS 2024](https://eventos.uc3m.es/97610/detail/ieee-international-conference-on-evolving-and-adaptive-intelligent-systems-2024-ieee-eais-2024.html)
+- 📄 **Recent Publications:** [Google Scholar](https://scholar.google.com/citations?user=NkoSWDAAAAAJ)  
+
+---
+
+[linkedin]: https://www.linkedin.com/in/giovannipanella  
+[scholar]: https://scholar.google.com/citations?user=NkoSWDAAAAAJ  
