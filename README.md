@@ -21,3 +21,5 @@ I'm a **PhD student in the National PhD Program in AI** at the **University of N
 
 ---
 
+[linkedin]: https://www.linkedin.com/in/giovannipanella  
+[scholar]: https://scholar.google.com/citations?user=NkoSWDAAAAAJ  
