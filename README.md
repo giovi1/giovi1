@@ -1,12 +1,7 @@
 ### Hi, I'm Giovanni Panella 🖐️
 
 ## 👨‍🎓 PhD Student in AI  
-I'm a **PhD student in the National PhD Program in AI** at the **University of Naples**. My research focuses on **AI applied to agritech**, with expertise in:  
-- **Large Language Models (LLMs)**
-- **Computer Vision & Machine Learning**
-
-I’m passionate about bridging **AI research** with real-world **applications**.  
-
+I'm a **PhD student in the National PhD Program in AI** at the **University of Naples**. My research focuses on **AI applied to agritech**
 ---
 
 ### 🔗 Connect with Me  
@@ -26,5 +21,3 @@ I’m passionate about bridging **AI research** with real-world **applications**
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/giovannipanella  
-[scholar]: https://scholar.google.com/citations?user=NkoSWDAAAAAJ  
