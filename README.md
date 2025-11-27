@@ -1,7 +1,7 @@
 ### Hi, I'm Giovanni Panella 🖐️
 
 ## 👨‍🎓 PhD Student in AI  
-I'm a **PhD student in the National PhD Program in AI** at the **University of Naples**. My research focuses on **AI applied to agritech**
+I'm a **PhD student in the National PhD Program in AI** at the **University of Naples**. My research focuses on **AI applied to smart agriculture**
 ---
 
 ### 🔗 Connect with Me  
