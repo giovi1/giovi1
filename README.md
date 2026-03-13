@@ -10,11 +10,6 @@ I'm a **PhD student in the National PhD Program in AI** at the **University of N
 
 ---
 
-### 📊 GitHub Stats  
-![Giovanni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovannipanella&show_icons=true&theme=dark)  
-
----
-
 ### 📚 Publications  
 - 🏆 **Best Student Paper Award** at [IEEE EAIS 2024](https://eventos.uc3m.es/97610/detail/ieee-international-conference-on-evolving-and-adaptive-intelligent-systems-2024-ieee-eais-2024.html)
 - 📄 **Recent Publications:** [Google Scholar](https://scholar.google.com/citations?user=NkoSWDAAAAAJ)  
